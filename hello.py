@@ -1,1 +1,1 @@
- print("Hello DevOps from <Altynai>")
+ print("Hello DevOps")
